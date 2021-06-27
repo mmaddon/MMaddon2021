@@ -2,7 +2,7 @@
 
 
 
-    In summary, the current software did not have the basic ability to have one or more teams involved. The users/staff
+   In summary, the current software did not have the basic ability to have one or more teams involved. The users/staff
   members requiring such involvement wanted each team to have multiple players assigned to it. In the Gaming Room
   program, the clients were the users/staff members of The Gaming Room Team. They wanted to implement game and
   team names in the program, and it must be distinctive to allow users to check whether a name is in usage when
